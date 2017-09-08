@@ -19,4 +19,8 @@ yum install ansible
 yum install git
 yum install npm
 yum install nodejs-minimatch
+yum install gcc
+yum install gcc-c++
+yum install findutils
+yum groupinstall 'Development Tools'
 ```
