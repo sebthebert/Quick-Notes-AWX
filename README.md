@@ -2,6 +2,8 @@
 
 Notes about AWX (upstream project for Tower)
 
+![First Login](/AWX_first_login.png)
+
 ## Build AWX on Docker
 
 ### Centos
